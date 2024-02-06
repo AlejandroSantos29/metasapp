@@ -8,7 +8,7 @@ const listaMock = [{
     "icono": '🏃',
     "meta": 365,
     "plazo": '2024-12-31',
-    "completado": 35
+    "completado": 30
 },
 {
     "id": '2',
@@ -18,7 +18,7 @@ const listaMock = [{
     "icono": '📚',
     "meta": 6,
     "plazo": '2024-12-31',
-    "completado": 2
+    "completado": 1
 },
 {
     "id": '3',
